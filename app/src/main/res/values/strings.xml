@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Заметки</string>
+
+    <string name="login_title">С возвращением 👋</string>
+    <string name="login_subtitle">Войдите, чтобы продолжить</string>
+    <string name="hint_login">Логин</string>
+    <string name="hint_password">Пароль</string>
+    <string name="btn_login">Войти</string>
+    <string name="no_account">Нет аккаунта? Зарегистрироваться</string>
+
+    <string name="register_title">Создать аккаунт ✨</string>
+    <string name="register_subtitle">Пара шагов — и всё готово</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password_repeat">Повторите пароль</string>
+    <string name="btn_register">Зарегистрироваться</string>
+    <string name="have_account">Уже есть аккаунт? Войти</string>
+
+    <string name="notes_title">Мои заметки</string>
+    <string name="empty_notes">Пока нет заметок.\nНажмите + чтобы создать первую</string>
+    <string name="menu_logout">Выйти</string>
+
+    <string name="edit_new_note">Новая заметка</string>
+    <string name="edit_existing_note">Редактирование</string>
+    <string name="hint_note_title">Заголовок</string>
+    <string name="hint_note_body">Текст заметки…</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_delete">Удалить</string>
+    <string name="confirm_delete">Удалить заметку?</string>
+    <string name="yes">Да</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="cd_add_note">Добавить заметку</string>
+    <string name="cd_back">Назад</string>
+</resources>

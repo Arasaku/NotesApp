@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.NotesApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/bg_screen_dark</item>
+
+        <item name="android:statusBarColor">@color/bg_screen</item>
+        <item name="android:navigationBarColor">@color/bg_screen</item>
+
+        <item name="android:windowLightStatusBar">false</item>
+
+    </style>
+</resources>
